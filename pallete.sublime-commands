@@ -1,3 +1,4 @@
 [
-    { "caption": "Create remote project", "command": "create_project" }
+    { "caption": "Create remote project", "command": "create_project" },
+    { "caption": "Download WordPress remotely", "command": "download_wordpress" }
 ]
